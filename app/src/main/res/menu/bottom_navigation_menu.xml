@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_call"
+        android:title="@string/calls"
+        android:icon="@mipmap/call"/>
+    <item
+        android:id="@+id/action_chat"
+        android:title="@string/chats"
+        android:icon="@mipmap/chat"/>
+    <item
+        android:id="@+id/action_contacts"
+        android:title="@string/contacts"
+        android:icon="@mipmap/contacts"/>
+</menu>

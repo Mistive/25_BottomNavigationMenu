@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomNavi</string>
+    <string name="calls">CALLS</string>
+    <string name="chats">CHATS</string>
+    <string name="contacts">CONTACTS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
